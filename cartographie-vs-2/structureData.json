@@ -1,0 +1,68 @@
+
+	{
+	"_comment": "structure du document acteur et structure",
+	"nom":"kitendi",
+	"description":"blabla",
+	"adresse":{
+		"itineraire":"blabla",
+		"ville":"5ed7bc81dc43db3c4201f14c",
+		"longitude":"12222222",
+		"latitude":"211111111"
+	},
+		"contact":{
+			"numerosTelephone":"bbbb",
+			"numerosWhatsapp":"vdvdvd",
+			"email":"jfjfjfjf"
+		},
+		
+	"type":"dgdgdgdg"
+	}
+
+	{
+		"_comment": "structure du document cas sousmis",
+		"prenom":"gael",
+		"nom":"blabla",
+		"age":12,
+		"sexe":"masculin",
+		"ville":"5ed7bc81dc43db3c4201f14c",
+		"acteurStructure":"5ed7bc81dc43db3c4201f14c"
+	}	
+
+	{
+		"_comment": "structure du document province",
+		"nom":"gael",
+		"geoJson":{
+			"type":"FeatureCollection",
+			"feature":[{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[15.15,-4.424],[15.3228,-4.6464],[15.4933,-4.5261],[15.66,-4.5439],[15.6553,-4.6306],[15.7539,-4.7125],[15.7197,-4.8547],[15.6367,-4.9456],[15.8086,-5.0322],[15.8828,-4.9939],[16.2773,-5.0028],[16.2211,-5.4083],[16.2378,-5.6081],[16.1861,-5.7833],[16.0928,-5.8736],[15.8569,-5.8808],[14.963,-5.8733],[14.6991,-5.881],[14.5951,-5.9102],[14.1773,-5.8616],[14.0381,-5.8842],[13.9863,-5.8416],[13.8293,-5.8751],[13.2478,-5.8652],[13.1227,-5.9009],[13.0181,-5.8768],[12.8944,-5.9466],[12.4532,-6.0803],[12.226,-5.8115],[12.2657,-5.7433],[12.5351,-5.7338],[12.5291,-5.0679],[12.7176,-4.9495],[12.8395,-4.7552],[13.1097,-4.6686],[13.2329,-4.6798],[13.2846,-4.7714],[13.4214,-4.8746],[13.5944,-4.8138],[13.7142,-4.6755],[13.7816,-4.4252],[13.9597,-4.5182],[14.0258,-4.4248],[14.1785,-4.3996],[14.3583,-4.3142],[14.4823,-4.437],[14.3493,-4.5641],[14.4097,-4.724],[14.403,-4.861],[14.4899,-4.8482],[14.6905,-4.9172],[14.8497,-4.8178],[14.9124,-4.6822],[15.15,-4.424]]]},"properties":{"name":"Kongo Central","id":"CD-BC","CNTRY":"Democratic Republic of the Congo","TYPE":"Province"},"id":"CD-BC"}]
+		}
+	}
+	{
+		"_comment": "structure du document user",
+		"prenom":"gael",
+		"nom":"map",
+		"email":"dfer@gmail.com",
+		"paswword":"1234@12ddd",
+		"role_user":"admin"
+	}
+	{
+		"_comment": "structure du document vbg",
+		"type_violence":"sexuel",
+		"auteur_viol":"fdlr",
+		"tranche_age_victime":"11-12ans",
+		"categorie_victime":"mineur",
+		"sexe_victime":"feminin",
+		"province":"5ed7bc81dc43db3c4201f14c",
+		"date":{
+		"dateViol":"2018-09-07",
+		"dateSoumition":"2020-11-09"
+		}
+	}
+	{
+		"_comment": "structure du document ville",
+		"nom":"kisangani",
+		"localisation":{
+			"longitude":"122222222222",
+			"latitude":"12233433222"
+		},
+		"province":"5ed7bc81dc43db3c4201f14c"
+	}

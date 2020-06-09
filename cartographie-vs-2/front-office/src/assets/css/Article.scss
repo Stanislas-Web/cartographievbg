@@ -1,0 +1,15 @@
+.parentArticle{
+    display: flex;
+    border-bottom: 2px solid #999999;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+    div {
+        p{
+            margin: 2%;
+            font-family:Roboto;
+            font-size: 14px;
+            font-weight: 300;
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "ONU Kisangani",
+        "NAME_FR": "Structure de prise en charge",
+        "ADDRESS": "8720 Russell Road",
+        "ITINERAIRE":"",
+        "VILLE":"Mbujimayi",
+        "PROVINCE":"Kasai",
+        "TERITOIRE":"Kasai",
+        "CONTACT":"+243",
+        "EMAIL":"gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2057292, 0.5184021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Monusco Kinshasa",
+        "NAME_FR": "Structure de prise en charge",
+        "ADDRESS": "1490 Youville Drive",
+        "ITINERAIRE":"",
+        "VILLE":"Kinshasa",
+        "PROVINCE":"Kinshasa",
+        "TERITOIRE":"Kinshasa",
+        "CONTACT":"+243",
+        "EMAIL":"gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.3125974, -4.3217055]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "CMK Kinshasa",
+        "NAME_FR": "Structure de prise en charge",
+        "ADDRESS": "4101 Innovation Drive",
+        "ITINERAIRE":"",
+        "VILLE":"Lubummbashi",
+        "PROVINCE":"Kasai",
+        "TERITOIRE":"Kasai",
+        "CONTACT":"+243",
+        "EMAIL":"gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4826264, -11.6642316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Monusco Kinshasa",
+        "NAME_FR": "Structure de prise en charge",
+        "ADDRESS": "1490 Youville Drive",
+        "ITINERAIRE":"",
+        "VILLE":"Kinshasa",
+        "PROVINCE":"Kinshasa",
+        "TERITOIRE":"Kinshasa",
+        "CONTACT":"+243",
+        "EMAIL":"gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.4125974, -4.3217055]
+      }
+    }
+  ]
+}

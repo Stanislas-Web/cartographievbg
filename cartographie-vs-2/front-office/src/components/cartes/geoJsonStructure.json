@@ -1,0 +1,1061 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Sanchez, Barre and Roux",
+                "NAME_FR": "abri sûr",
+                "ADDRESS": "7072 Antoine Mouffetard",
+                "ITINERAIRE": "7072 Antoine Mouffetard",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0248843055",
+                "EMAIL": "Eva_Morin99@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.035959737375,
+                    -1.1137599763065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Mathieu - Lemoine",
+                "NAME_FR": "Police",
+                "ADDRESS": "94170 Baron du Faubourg Saint-Honoré",
+                "ITINERAIRE": "94170 Baron du Faubourg Saint-Honoré",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0296111528",
+                "EMAIL": "Maxence27@yahoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.171579396352,
+                    -7.5094812439515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Bertrand, Jacquet and Gautier",
+                "NAME_FR": "abri sûr",
+                "ADDRESS": "22114 Adrien Charlemagne",
+                "ITINERAIRE": "22114 Adrien Charlemagne",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0229985571",
+                "EMAIL": "Lina.Guyot13@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.853368069977,
+                    -5.1892561948746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Marchand, Meyer and Hubert",
+                "NAME_FR": "appui élémentaire",
+                "ADDRESS": "135 Justine de Rivoli",
+                "ITINERAIRE": "135 Justine de Rivoli",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0274009214",
+                "EMAIL": "Louise_Berger@yahoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.734193896875,
+                    -7.0694999252682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Dufour, Dupont and Vidal",
+                "NAME_FR": "appui élémentaire",
+                "ADDRESS": "326 Mathis d'Alésia",
+                "ITINERAIRE": "326 Mathis d'Alésia",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0202258795",
+                "EMAIL": "La.Boyer@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.916069220751,
+                    -6.050091443988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Arnaud - Chevalier",
+                "NAME_FR": "abri sûr",
+                "ADDRESS": "671 Vasseur de la Huchette",
+                "ITINERAIRE": "671 Vasseur de la Huchette",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0254776373",
+                "EMAIL": "Lo.Breton64@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.235577635467,
+                    3.8627171048956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Adam - Renault",
+                "NAME_FR": "abri sûr",
+                "ADDRESS": "941 Lefebvre Delesseux",
+                "ITINERAIRE": "941 Lefebvre Delesseux",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0245640937",
+                "EMAIL": "Lo.Meyer@yahoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.63152,
+                    40.986836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Dupuis EI",
+                "NAME_FR": "Conseillers en matière d’assistance juridique",
+                "ADDRESS": "6346 Alexandre Du Sommerard",
+                "ITINERAIRE": "6346 Alexandre Du Sommerard",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0279561558",
+                "EMAIL": "Camille_Marty64@yahoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.595970792696,
+                    -10.876068738172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Mercier SEM",
+                "NAME_FR": "soutien psychosocial",
+                "ADDRESS": "817 Paul Marcadet",
+                "ITINERAIRE": "817 Paul Marcadet",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0275607111",
+                "EMAIL": "Lucie.Clement@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.734193896875,
+                    -7.0694999252682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Riviere, Pierre and Dumont",
+                "NAME_FR": "abri sûr",
+                "ADDRESS": "05780 Mathéo de Paris",
+                "ITINERAIRE": "05780 Mathéo de Paris",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0287850964",
+                "EMAIL": "Pauline_Renault99@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.520095147192,
+                    -11.638865076807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Brun, Lemoine and Henry",
+                "NAME_FR": "Conseillers en matière d’assistance juridique",
+                "ADDRESS": "929 Zoe Saint-Honoré",
+                "ITINERAIRE": "929 Zoe Saint-Honoré",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0239295482",
+                "EMAIL": "Benjamin46@yahoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.99416477792,
+                    -4.0378921818416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Noel SAS",
+                "NAME_FR": "Structures permanentes",
+                "ADDRESS": "256 Kylian Saint-Dominique",
+                "ITINERAIRE": "256 Kylian Saint-Dominique",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0229737201",
+                "EMAIL": "Pauline.Schmitt34@yahoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.253066390753,
+                    2.0143855332111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Hubert, Lefevre and Legrand",
+                "NAME_FR": "abri sûr",
+                "ADDRESS": "544 Rayan Charlemagne",
+                "ITINERAIRE": "544 Rayan Charlemagne",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0240756054",
+                "EMAIL": "Nicolas21@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.448797576129,
+                    -7.0064959889067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Boyer SARL",
+                "NAME_FR": "Police",
+                "ADDRESS": "52158 Bertrand Saint-Jacques",
+                "ITINERAIRE": "52158 Bertrand Saint-Jacques",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0279327507",
+                "EMAIL": "Mathilde58@yahoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.320068188012,
+                    1.5564193281338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Bonnet - Paris",
+                "NAME_FR": "Police",
+                "ADDRESS": "82894 Maxime Pastourelle",
+                "ITINERAIRE": "82894 Maxime Pastourelle",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0246194685",
+                "EMAIL": "Noah_Arnaud@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.000652059913,
+                    -1.159720889229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Garcia SA",
+                "NAME_FR": "Police",
+                "ADDRESS": "94857 Romane de la Victoire",
+                "ITINERAIRE": "94857 Romane de la Victoire",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0243260892",
+                "EMAIL": "Ines_Robin19@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.270764516666,
+                    -0.8360687731836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Cousin SARL",
+                "NAME_FR": "Conseillers en matière d’assistance juridique",
+                "ADDRESS": "9625 Legrand des Grands Augustins",
+                "ITINERAIRE": "9625 Legrand des Grands Augustins",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0209798288",
+                "EMAIL": "Louise_Barbier42@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.194402134046,
+                    2.8664128114346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Dupont SA",
+                "NAME_FR": "abri sûr",
+                "ADDRESS": "119 Maëlle des Panoramas",
+                "ITINERAIRE": "119 Maëlle des Panoramas",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0265285880",
+                "EMAIL": "Adrien44@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.817499956116,
+                    -7.8249168786535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Richard - Dupont",
+                "NAME_FR": "Conseillers en matière d’assistance juridique",
+                "ADDRESS": "4709 Océane Saint-Jacques",
+                "ITINERAIRE": "4709 Océane Saint-Jacques",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0235955522",
+                "EMAIL": "Nomie53@yahoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.856055621058,
+                    0.5912499618541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Caron - Lambert",
+                "NAME_FR": "Hôpitaux",
+                "ADDRESS": "130 Robert Joubert",
+                "ITINERAIRE": "130 Robert Joubert",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0204636520",
+                "EMAIL": "Jeanne86@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.499959921464,
+                    -4.7074099420585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Aubert SAS",
+                "NAME_FR": "services aux enfants",
+                "ADDRESS": "653 Sarah Saint-Séverin",
+                "ITINERAIRE": "653 Sarah Saint-Séverin",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0275876628",
+                "EMAIL": "Zoe.Rousseau42@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.887625137344,
+                    0.66426578091549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Riviere, Gautier and Sanchez",
+                "NAME_FR": "Conseillers en matière d’assistance juridique",
+                "ADDRESS": "74137 Eva de Caumartin",
+                "ITINERAIRE": "74137 Eva de Caumartin",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0273095757",
+                "EMAIL": "Alexis41@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.574582763016,
+                    -7.012777940645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Mercier EURL",
+                "NAME_FR": "Conseillers en matière d’assistance juridique",
+                "ADDRESS": "3886 Rayan de Rivoli",
+                "ITINERAIRE": "3886 Rayan de Rivoli",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0243185824",
+                "EMAIL": "Mathilde.Dumont@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.041360868141,
+                    -7.1001668730468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Jean, Laine and Lemaire",
+                "NAME_FR": "Réinsertion socio-économique",
+                "ADDRESS": "6132 Robert Montorgueil",
+                "ITINERAIRE": "6132 Robert Montorgueil",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0237048942",
+                "EMAIL": "Sacha_Leroux76@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.657472182065,
+                    2.2174444151138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Vidal, Pierre and Guillaume",
+                "NAME_FR": "abri sûr",
+                "ADDRESS": "278 Pons Mouffetard",
+                "ITINERAIRE": "278 Pons Mouffetard",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0205724986",
+                "EMAIL": "Camille_Fernandez@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.230447873473,
+                    -5.2508436463539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Garnier - Thomas",
+                "NAME_FR": "Structures permanentes",
+                "ADDRESS": "09694 Kylian de Solférino",
+                "ITINERAIRE": "09694 Kylian de Solférino",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0282106307",
+                "EMAIL": "Antoine24@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.948491927236,
+                    -5.3963255277613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Garcia SA",
+                "NAME_FR": "soutien psychosocial",
+                "ADDRESS": "73292 Guerin Charlemagne",
+                "ITINERAIRE": "73292 Guerin Charlemagne",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0230399917",
+                "EMAIL": "Tom39@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.460963932797,
+                    -10.643284394514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Gonzalez - Rodriguez",
+                "NAME_FR": "services aux enfants",
+                "ADDRESS": "5366 Guyot Marcadet",
+                "ITINERAIRE": "5366 Guyot Marcadet",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0234796501",
+                "EMAIL": "Louise_Schneider@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.656,
+                    -2.88
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Martin - Bertrand",
+                "NAME_FR": "services aux enfants",
+                "ADDRESS": "8859 Juliette des Francs-Bourgeois",
+                "ITINERAIRE": "8859 Juliette des Francs-Bourgeois",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0216533534",
+                "EMAIL": "Kylian44@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.734193896875,
+                    -7.0694999252682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Hubert, Louis and Roger",
+                "NAME_FR": "Police",
+                "ADDRESS": "346 David de l'Odéon",
+                "ITINERAIRE": "346 David de l'Odéon",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0239874228",
+                "EMAIL": "Juliette_Denis@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.454686438665,
+                    -6.5880134324707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Roussel - Roger",
+                "NAME_FR": "Hôpitaux",
+                "ADDRESS": "7448 Lina de Caumartin",
+                "ITINERAIRE": "7448 Lina de Caumartin",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0287988237",
+                "EMAIL": "Matto.Chevalier@yahoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.416251856834,
+                    -1.2339649924357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Robert - Renard",
+                "NAME_FR": "Structures permanentes",
+                "ADDRESS": "2290 Mael du Faubourg Saint-Honoré",
+                "ITINERAIRE": "2290 Mael du Faubourg Saint-Honoré",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0253877931",
+                "EMAIL": "Louis.Marchand@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.701981632039,
+                    -0.98395672125147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Riviere, Fernandez and Picard",
+                "NAME_FR": "Réinsertion socio-économique",
+                "ADDRESS": "924 Remy de Seine",
+                "ITINERAIRE": "924 Remy de Seine",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0229374526",
+                "EMAIL": "Jeanne.Marchal@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.54833323881,
+                    -4.8580555878688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Guerin, Vidal and Morel",
+                "NAME_FR": "Réinsertion socio-économique",
+                "ADDRESS": "05144 Collet de Provence",
+                "ITINERAIRE": "05144 Collet de Provence",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0204483689",
+                "EMAIL": "Yanis75@yahoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.131184499711,
+                    -4.9473877456699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Richard SARL",
+                "NAME_FR": "Conseillers en matière d’assistance juridique",
+                "ADDRESS": "5264 Elisa d'Abbeville",
+                "ITINERAIRE": "5264 Elisa d'Abbeville",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0231819655",
+                "EMAIL": "Nomie45@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.824166946113,
+                    2.8594439211857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Guillot - Pierre",
+                "NAME_FR": "services aux enfants",
+                "ADDRESS": "116 Chloé de l'Abbaye",
+                "ITINERAIRE": "116 Chloé de l'Abbaye",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0242685403",
+                "EMAIL": "Antoine96@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.775174288079,
+                    3.2549634033331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Barbier, Muller and Menard",
+                "NAME_FR": "services aux enfants",
+                "ADDRESS": "543 Clément Bonaparte",
+                "ITINERAIRE": "543 Clément Bonaparte",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0233421876",
+                "EMAIL": "Evan52@yahoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.734193896875,
+                    -7.0694999252682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Morel, Rousseau and Andre",
+                "NAME_FR": "soutien psychosocial",
+                "ADDRESS": "374 Océane La Boétie",
+                "ITINERAIRE": "374 Océane La Boétie",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0267939184",
+                "EMAIL": "Mathilde.Bertrand@yahoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.742434576154,
+                    -10.813359894117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Deschamps, Blanc and Laine",
+                "NAME_FR": "abri sûr",
+                "ADDRESS": "2203 Rayan de Rivoli",
+                "ITINERAIRE": "2203 Rayan de Rivoli",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0254062208",
+                "EMAIL": "Louis7@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.657472182065,
+                    2.2174444151138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Boyer - Julien",
+                "NAME_FR": "Conseillers en matière d’assistance juridique",
+                "ADDRESS": "37046 Zoe Adolphe Mille",
+                "ITINERAIRE": "37046 Zoe Adolphe Mille",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0214931288",
+                "EMAIL": "Adrien73@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.698166657239,
+                    1.8792500181714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Fernandez EI",
+                "NAME_FR": "Conseillers en matière d’assistance juridique",
+                "ADDRESS": "09091 Boyer Lepic",
+                "ITINERAIRE": "09091 Boyer Lepic",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0288067118",
+                "EMAIL": "Mael92@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.856055621058,
+                    0.5912499618541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Renaud, Bertrand and Vincent",
+                "NAME_FR": "soutien psychosocial",
+                "ADDRESS": "5387 Charles de la Ferronnerie",
+                "ITINERAIRE": "5387 Charles de la Ferronnerie",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0286211986",
+                "EMAIL": "Manon.Vincent@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.272209795192,
+                    -5.5997913241679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Breton SARL",
+                "NAME_FR": "appui élémentaire",
+                "ADDRESS": "967 Maeva de Vaugirard",
+                "ITINERAIRE": "967 Maeva de Vaugirard",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0267703441",
+                "EMAIL": "Manon.Gaillard@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.229832198471,
+                    -0.50965573939745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Moreau - Da silva",
+                "NAME_FR": "services aux enfants",
+                "ADDRESS": "5721 Dupont Saint-Denis",
+                "ITINERAIRE": "5721 Dupont Saint-Denis",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0296740092",
+                "EMAIL": "Mathilde_Perez@yahoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.54833323881,
+                    -4.8580555878688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Menard SEM",
+                "NAME_FR": "abri sûr",
+                "ADDRESS": "08249 Pauline de la Bûcherie",
+                "ITINERAIRE": "08249 Pauline de la Bûcherie",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0257400202",
+                "EMAIL": "Tom.Schneider41@yahoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.121787073091,
+                    -0.98220197669205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Blanc - Rodriguez",
+                "NAME_FR": "Hôpitaux",
+                "ADDRESS": "40197 Gonzalez de l'Abbaye",
+                "ITINERAIRE": "40197 Gonzalez de l'Abbaye",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0288932257",
+                "EMAIL": "Arthur.Martinez@hotmail.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.877449985594,
+                    -3.3661555758219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Roux - Renault",
+                "NAME_FR": "appui élémentaire",
+                "ADDRESS": "032 Lucas du Havre",
+                "ITINERAIRE": "032 Lucas du Havre",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0264205791",
+                "EMAIL": "Kylian_Lucas@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.131775846705,
+                    -1.6769200204344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Bourgeois GIE",
+                "NAME_FR": "soutien psychosocial",
+                "ADDRESS": "1182 Pauline du Faubourg-Saint-Denis",
+                "ITINERAIRE": "1182 Pauline du Faubourg-Saint-Denis",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0248673554",
+                "EMAIL": "Mael48@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.126032961532,
+                    -4.6402914916323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Louis - Roger",
+                "NAME_FR": "services aux enfants",
+                "ADDRESS": "6503 Maxence des Lombards",
+                "ITINERAIRE": "6503 Maxence des Lombards",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0212484996",
+                "EMAIL": "Kylian20@yahoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.752069942653,
+                    -4.3995899732845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Aubert SARL",
+                "NAME_FR": "soutien psychosocial",
+                "ADDRESS": "5807 Dupuy de Caumartin",
+                "ITINERAIRE": "5807 Dupuy de Caumartin",
+                "VILLE": "Mbujimayi",
+                "PROVINCE": "Kasai",
+                "TERITOIRE": "Kasai",
+                "CONTACT": "0259294698",
+                "EMAIL": "Yanis.Durand25@yahoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.734193896875,
+                    -7.0694999252682
+                ]
+            }
+        }
+    ]
+}
